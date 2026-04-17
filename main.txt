@@ -1,8 +1,5 @@
 echo "Hello World"
-<<<<<<< HEAD
 echo " Hello Devops Insiders "
-=======
 
 
 echo "hello bro"
->>>>>>> 0112968 (add txt2)
